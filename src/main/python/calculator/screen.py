@@ -1,10 +1,6 @@
 """
 Módulo que maneja el funcionamiento de la interfaz,
 visual y lógicamente
-
-Este módulo permite expandir el funcionamiento de la
-aplicación, permitiendo la implementación de más
-pantallas (frames)
 """
 
 import tkinter as tk
