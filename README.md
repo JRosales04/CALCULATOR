@@ -1,2 +1,2 @@
 # CALCULATOR
-Nos aburríamos y decidimos hacer una calculadora.
+Me aburría e hice una calculadora :)
