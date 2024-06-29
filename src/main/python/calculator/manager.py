@@ -8,7 +8,11 @@ from screen import Screen
 
 class Manager(tk.Tk):
 
+    """ Clase generadora de la interfaz """
+
     def __init__(self, *args, **kwargs):
+        """ Método constructor de la clase
+        Hereda de la clase tk.Tk """
         super().__init__(*args, **kwargs)
         self.title("Calculator")
 
@@ -26,4 +30,5 @@ class Manager(tk.Tk):
         self.show_screen()
 
     def show_screen(self):
+        """ Muestra la pantalla """
         self.screen.tkraise()
